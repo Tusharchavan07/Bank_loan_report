@@ -8,7 +8,6 @@ This project involves creating a comprehensive report on bank loan data using a 
 2. [Technologies Used](#technologies-used)
 3. [Data Analysis](#data-analysis)
 4. [Power BI Dashboard](#power-bi-dashboard)
-5. [Screenshots](#screenshots)
 
 ## Technologies Used
 - **Database**: MySQL
@@ -27,15 +26,5 @@ The Power BI dashboard is divided into three pages:
 1. **Summary**: A high-level overview of the key metrics.
 2. **Overview**: Detailed visualizations and insights into loan data.
 3. **Customer Details**: Specific details of customers who have taken loans.
-
-## Screenshots
-### Summary Page
-![Summary Page]
-
-### Overview Page
-![Overview Page](path/to/overview_screenshot.png)
-
-### Customer Details Page
-![Customer Details Page](path/to/details_screenshot.png)
 
 
